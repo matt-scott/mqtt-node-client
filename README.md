@@ -1,6 +1,8 @@
 # mqtt-node-client
 mqtt.js node client - used for exploration of mqtt.js client library
 
+Source code taken and adapted from https://www.emqx.com/en/blog/how-to-use-mqtt-in-nodejs
+
 1. Create new project
 ```bash
 npm init -y
